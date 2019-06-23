@@ -1,11 +1,11 @@
 #######################################################
 # Breweries in Wien [Vienna] (W) / Eastern Austria
 
->>  Wien
->>> 16. Ottakring
+== Wien ==
+=== 16. Ottakring ===
 
-____________________________________________
-Ottakringer|Ottakringer Brauerei, 1838
+[ottakringer]
+  Ottakringer|Ottakringer Brauerei, 1838
   1160 Wien // Ottakringer Platz 1
   www.ottakringer.at
   brands: Ottakringer

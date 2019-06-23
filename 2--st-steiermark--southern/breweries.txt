@@ -5,12 +5,11 @@
 # Microbreweries
 
 
->>   Steiermark
->>>  ???            ## region ??
->>>> Leibnitz       ## bezirk
+=== Steiermark ===
+==== Leibnitz ====      ## bezirk
 
-__________________________________________________
-Flamberger|Brauerei Michael Löscher, 1998
+[flamberger]
+  Flamberger|Brauerei Michael Löscher, 1998
   8505 St. Nikolai im Sausal // Flamberg 101
   Flamberg › St. Nikolai im Sausal › Leibnitz › Steiermark
   www.flamberger.at
@@ -26,11 +25,11 @@ Flamberger BioBier, 5%      # halbdunkel
 
 
 
->>>  ???            ## region ??
->>>> Leibnitz       ## bezirk
+=== Steiermark ===
+==== Leibnitz ====       ## bezirk
 
-__________________________________
-Bevog|Brauhaus Bevog, 2013
+[bevog]
+  Brauhaus Bevog, 2013
   8490 Bad Radkersburg // Gewerbepark B Nr. 9       ## or B9 == B Nr. 9
   Bad Radkersburg › Südoststeiermark › Steiermark
   www.bevog.at    ## or www.bevog.com
@@ -48,13 +47,8 @@ Bevog Ond (Smoked Porter), 6.3%
 Bevog Rudeen (Black IPA), 7.4%
 
 
-==Bevog Brewtap==  ## Braugasthaus
-open: Mo 8.00-16.00, Di 8.00-18.00, Sa 10-18.00
-
-
-
-____________________________________________________
-Leutschach|Brauerei Leutschach|Die Brauerei, 2008
+[leutschach]
+  Brauerei Leutschach|Die Brauerei, 2008
   8463 Leutschach // Schillerplatz 3
   Leutschach › Leibnitz › Steiermark
   www.diebrauerei.com
@@ -72,13 +66,10 @@ Kürbisbier,  5.5%
 Maronibier,  6.2%
 Bock'n Roll (Starkbier),  8.5%
 
-==Brewtap==
-open: ab 10.00-; Di. Ruhetag; September bis Oktober kein Ruhetag
 
 
-
-____________________________________
-Gratzer|Brauerei Gratzer, 2002
+[gratzer]
+  Brauerei Gratzer, 2002
   8224 Kaindorf // Obertiefenbach 26
   Obertiefenbach › Kaindorf › Hartberg-Fürstenfeld › Steiermark
   www.brauereigratzer.at
@@ -94,8 +85,8 @@ Gratzer Hermann, 6.5%         # dunkel
 Gratzer Diana, 6.6%           # vollmondbier
 
 
-_______________________________________________________________________
-Forstner|Handbrauerei Forstner|Forstner Biere|Hof-Bräu Kalsdorf, 2000
+[forstner]
+  Handbrauerei Forstner|Forstner Biere|Hof-Bräu Kalsdorf, 2000
   # note: old name was Hof-Bräu Kalsdorf (still used for braeustueberl/brewery tap ??)
   8401 Kalsdorf // Dorfstraße 52
   Kalsdorf › Graz-Umgebung › Steiermark
@@ -113,8 +104,8 @@ Forstner Vollmond Doppelbock, 7.5%, 18.3°
 
 
 
-_________________________________
-Herzog|Herzog Hofbräu, 2008
+[herzog]
+  Herzog Hofbräu, 2008
   8142 Wundschuh // Ponigler Straße 52      ## Ponigl bei Wundschuh (seit 2014)
   Ponigl › Wundschuh › Graz-Umgebung › Steiermark
   www.bierbotschaft.at   ## was: www.herzog-hofbraeu.at
@@ -164,29 +155,19 @@ Herzogs Gin-Bier,       5.0%  ## saisonal
 Herzogs Walnussbier,    8.8%  ## saisonal
 
 
-## move to brewpubs??
-
-==Herzogs Bierbotschaft==    ## Herzogs Bierwirtshaus & Brauerei
-
-# open: Mi-Sa 11.00-22.00
-#      Sonntag & Feiertag (außer Mo + Di): 10.00-18.00
-#      Montag und Dienstag: Ruhetag
-
-
-
-_________________________________________________
-Pock|Landwerkstatt & Genusslabor Pock|Pock Bier
+[pock]
+  Pock|Landwerkstatt & Genusslabor Pock|Pock Bier
   8481 Weinburg // Pichla bei Mureck 31
   www.pockbier.com
 
 
-_______________________________________________
-Nibelungengold|Nibelungengold Brauerei
+[nibelungengold]
+  Nibelungengold|Nibelungengold Brauerei
   8280 Fürstenfeld // Franz-Bauer-Weg 4
   www.nibelungengold.at
 
-_________________________________________________
-Eders|Eders Biobier|Eders Hofbräu, 2013
+[eders]
+  Eders|Eders Biobier|Eders Hofbräu, 2013
   8280 Fürstenfeld // Rennmühlstraße 18
   www.edersbiobier.at
   sudwerk: 26 liter
@@ -197,8 +178,8 @@ Weizen, 4.8%
 Haferbier, 4.8%
 
 
-___________________________________________________
-Flecks|Flecks Steirerbier, 2014
+[flecks]
+  Flecks|Flecks Steirerbier, 2014
   8130 Frohnleiten // Laufnitzdorf 200
   www.steier-bier.at
   sudwerk: 4000 liter
@@ -211,8 +192,8 @@ Flecks Weizen
 
 ## Bockschuss (steir. Bier-Amaro), 27.5%
 
-________________________________________________
-Erzbergbräu|Privatbrauerei Erzbergbräu, 2012
+[erzbergbrau]
+  Privatbrauerei Erzbergbräu, 2012
   8790 Eisenerz // Trofengbachgasse 2
   www.erzbergbraeu.at
   brewer: Reinhold "Reini" Schenkermaier
@@ -228,12 +209,9 @@ BockBock (Starkbier), 7.5%
 K&K Franz Ferdinand (Imperial Vienna Strong Lager), 7.7%
 
 
-==Erzbergbräu Bedarfswirtshaus==
-open: Fr ab 11.00
 
-
-__________________________________________________
-Hermax Bräu|Brauerei Hermax, 1999
+[hermax]
+  Hermax Bräu|Brauerei Hermax, 1999
   8311 Mark Hartmannsdorf // Reith 72
   sudwerk: 150 liter
   brewer: Hermann Nothdurftler
@@ -248,8 +226,8 @@ Hermax Rübenbier, 5%  # rot
 Hermax Bio-Kakaobier, 5%
 
 
-_____________________
-Toni Bräu
+[toni]
+  Toni Bräu
   8273 Ebersdorf // Wagenbach 61
   Ebersdorf › Hartberg-Fürstenfeld › Steiermark
   www.tonibraeu.at
@@ -258,15 +236,15 @@ Toni Bräu
 Toni Bräu Helles, 5.0%, 12.0°
 
 
-________________________________
-Trieb Bräu
+[trieb]
+  Trieb Bräu
   8641 St. Marein // Ferdinand Raimundweg 7
 
 
 Trieb Bräu Märzen, 5.1%
 
 
-____________________________________
-Bierwerkstatt
+[bierwerkstatt]
+  Bierwerkstatt
   8262 Ilz // Nestelberg 8
   www.grafenbier.at

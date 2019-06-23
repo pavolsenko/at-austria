@@ -4,11 +4,11 @@
 # Note: large breweries  500_000+ hl / year
 
 
->>>  ???            ## region ??
->>>> Leoben       ## bezirk
+=== Steiermark ===            ## region ??
+==== Leoben ====       ## bezirk
 
-_______________________________________________________________
-Gösser|Gösser Brauerei (Brau Union)|Brauerei Göss, 1860
+[gosser]
+  Gösser Brauerei (Brau Union)|Brauerei Göss, 1860
   8700 Göss/Leoben // Brauhausgasse 1
   Göss › Leoben › Leoben › Steiermark      ## Ortsteil/Stadtteil › Gemeinde › Bezirk › etc.
   www.goesser.at
@@ -28,11 +28,11 @@ Gösser Stiftsbräu, 4.2%, 11.8°
 
 
 
->>>  Graz
->>>> Puntigam
+=== Graz ===
+==== Puntigam ====
 
-___________________________________________________________
-Puntigam|Brauerei Puntigam (Brau Union)
+[puntigam]
+  Brauerei Puntigam (Brau Union)
   8055 Graz // Triester Straße 357-359
   Puntigam › Graz › Steiermark      ##  Puntigam (17. Stadtbezirk) › Graz (Statutarstadt)
   www.puntigamer.at
@@ -56,8 +56,3 @@ Reininghaus Pils,                4.8%, 11.4°
 Reininghaus Malz,                4.5%, 11.8°
 Reininghaus Jahrgangspils       #  2011,2012,2013,2014,2015
 
-
-==Brauhaus Puntigam==       ## Gaststätte
-8055 Graz // Triester Straße 361
-www.brauhaus-puntigam.co.at
-open: Mo-Sa 10.00-23.00, closed sundays & holidays  # sonntag u. feiertagen geschlossen

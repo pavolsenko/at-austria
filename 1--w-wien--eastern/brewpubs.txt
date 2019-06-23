@@ -1,11 +1,11 @@
 #######################################################
 # Brewpubs in Wien (W) / Eastern Austria
 
->> Wien
->>> 1. Innere Stadt
+== Wien ==
+=== 1. Innere Stadt ===
 
-___________________________________________
-1516 Brewing|1516 Brewing Company   ## [fifteensixteen]
+[fifteensixteen]
+  1516 Brewing|1516 Brewing Company   ## 
   1010 Wien // Schwarzenbergstraße 2    ## Ecke/Corner: Krugerstraße 18
   www.1516brewingcompany.com
   open: Mo–So 10.00–2.00
@@ -41,8 +41,8 @@ Bo Rye - PITB Bohemian Rye, 2017
 Mosaic Single Hop Pale Ale, 2017    ## single hop w/ mosaic
 
 
-_______________________________________________
-Schwarzenberg|Stadtbrauerei Schwarzenberg
+[schwarzenberg]
+  Schwarzenberg|Stadtbrauerei Schwarzenberg
   1010 Wien // Schellinggasse 14
   www.stadtbrauerei.at
   open: Mo-So 17.00-24.00
@@ -56,10 +56,10 @@ Schwarzenberg Honey Ale, 12.9°, 5.4%. amber_ale  #  brewed with original Nottin
 
 
 
->>> 3. Landstraße
+=== 3. Landstraße ===
 
-______________________________
-Salm Bräu, 1994
+[salm]
+  Salm Bräu, 1994
   1030 Wien // Rennweg 8
   www.salmbraeu.com
   3_000 hl   # annual production
@@ -79,10 +79,10 @@ Salm Burning Hell, 4.9%, 12.2°, 2016, chilli   ## helles chilli bier
 
 
 
->>> 4. Wieden
+=== 4. Wieden ===
 
-________________________________
-Wieden Bräu, 1991
+[wiedenbrau]
+  Wieden Bräu, 1991
   1040 Wien // Waaggasse 5
   www.wieden-braeu.at
   1_600 hl   #  annual production
@@ -97,7 +97,7 @@ Wieden Bräu Gemischtes      # mix helles and dunkles --	Schnitt aus Hellem und 
 
 
 
->>> 5. Margareten
+=== 5. Margareten ===
 
 # Update: 2016
 # Hackl Bräu im Schwarzen Adler in Wien hat den Braubetrieb 2016 aufgegeben und Anlage verkauft.
@@ -144,10 +144,10 @@ Wieden Bräu Gemischtes      # mix helles and dunkles --	Schnitt aus Hellem und 
   open: So-Th 11:00-24:00, Fr-Sa 11:00-1:00
   schanigarten: 110  # seats / sitplätze
 
->>> 14. Penzing
+=== 14. Penzing ===
 
-_______________________
-Medl Bräu, 1989
+[medlnrau]
+  Medl Bräu, 1989
   1140 Wien // Linzer Straße 275
   www.medl-braeu.at
   brands: Medl Bräu
@@ -155,15 +155,15 @@ Medl Bräu, 1989
   open: Mo-Sa 10:00-24:00  # closed Sonntag und Feiertag geschlossen
 
 
->>> 16. Ottakring
+=== 16. Ottakring ===
 
-_____________________________
-Raben Bräu|Schwarzer Rabe
+[rabenbraeu]
+  Raben Bräu|Schwarzer Rabe
   1160 Wien // Ottakringer Straße 180
   www.rabenbraeu.at
 
-___________________________
-Brauwerk Wien
+[brauwerk]
+  Brauwerk Wien
   1160 Wien // Ottakringer Platz 1
 
 
@@ -186,7 +186,7 @@ Brauwerk Wiener Sauer?Lump!|Sauerlump, 3.0%, 9°, 2016    ## Berliner Weisse Art
 
 
 
->>> 19. Döbling
+=== 19. Döbling ===
 
 [fischerbraeu]
   Fischerbräu, 1985
