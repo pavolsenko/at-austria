@@ -24,25 +24,18 @@ ________________________________
 
 ## regular beers
 
-siebensternwienerhelles, 7 Stern Wiener Helles, 4.7%, 11.8°  # €3.20 (0.3l) €3.80 (0.5l)
-siebensternmaerzen,      7 Stern Märzen,        5.1%, 13.5°  # €3.40 (0.3l) €4.00 (0.5l)
-7 Stern Weizen Classic,   12.7°, 5.2%,   weissbier       # €3.40 (0.3l) €4.00 (0.5l)
-7 Stern Prager Dunkles,   12.1°, 4.5%                    # €3.20 (0.3l) €3.80 (0.5l)
-7 Stern Hanf,             11.8°, 4.7%                    # €3.40 (0.3l) €4.00 (0.5l)
-7 Stern Chilli,           11.8°, 4.7%,  chilli           # €3.40 (0.3l) €4.00 (0.5l)
+siebensternwienerhelles,  7 Stern Wiener Helles, 4.7%, 11.8°  # €3.20 (0.3l) €3.80 (0.5l)
+siebensternmaerzen,       7 Stern Märzen,        5.1%, 13.5°  # €3.40 (0.3l) €4.00 (0.5l)
+siebensternweizenclassic, 7 Stern Weizen Classic,   12.7°, 5.2%,   weissbier       # €3.40 (0.3l) €4.00 (0.5l)
+siebensternpragerdunkles, 7 Stern Prager Dunkles,   12.1°, 4.5%                    # €3.20 (0.3l) €3.80 (0.5l)
+siebensternhanf,          7 Stern Hanf,             11.8°, 4.7%                    # €3.40 (0.3l) €4.00 (0.5l)
+siebensternchilli,        7 Stern Chilli,           11.8°, 4.7%,  chilli           # €3.40 (0.3l) €4.00 (0.5l)
 
 ## special / limited beers
 
-7 Stern Smoked Porter, 13.8°, 5.3%, 2016      #   €3.40 (0.3l) €4.00 (0.5l)
-7 Stern Bamberger Rauchbier,  13.2°, 5.1%
-7 Stern India Pale Ale,       13°, 5%
-
-## seasonal beers
-
-7 Stern Osterbock,  16.5°, 6.3%
-7 Stern Herbstbock,    16.5°, 6.3%, 2016      # 	€3.60 (0.3l) €4.20 (0.5l)
-7 Stern Winterrauchbock,  16.5°, 6.3%
-
+siebensternsmokedporter, 7 Stern Smoked Porter, 13.8°, 5.3%, 2016      #   €3.40 (0.3l) €4.00 (0.5l)
+siebensternrauchbier, 7 Stern Bamberger Rauchbier,  13.2°, 5.1%
+siebensternipa, 7 Stern India Pale Ale,       13°, 5%
 
 === 9., Alsergrund ===
 __________________________
