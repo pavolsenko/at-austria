@@ -13,16 +13,9 @@
   8505 St. Nikolai im Sausal // Flamberg 101
   Flamberg › St. Nikolai im Sausal › Leibnitz › Steiermark
   www.flamberger.at
+  brands: Flamberger
   sudwerk: 500 liter
   brewer: Michael Löscher
-
-Flamberger Hausbier, 4.9%   # halbdunkles vollbier
-Flamberger BioDunkelPils, 4%
-Flamberger Whiskybier, 5%   # halbdunkel (mit whiskymalz)
-Flamberger BioBier, 5%      # halbdunkel
-
-## etwa 50 sorten
-
 
 
 === Steiermark ===
@@ -33,19 +26,9 @@ Flamberger BioBier, 5%      # halbdunkel
   8490 Bad Radkersburg // Gewerbepark B Nr. 9       ## or B9 == B Nr. 9
   Bad Radkersburg › Südoststeiermark › Steiermark
   www.bevog.at    ## or www.bevog.com
+  brands: Bevog
   brewer: Vasja Golar
   sudwerk: 1500 liter
-
-
-Bevog Tak (Pale Ale), 5.5%
-Bevog Kramah (India Pale Ale), 6.5%
-Bevog Deetz (Golden Ale), 4.8%
-Bevog Zo (Session IPA), 4.3%
-
-Bevog Baja (Oatmeal Stout), 5.8%
-Bevog Ond (Smoked Porter), 6.3%
-Bevog Rudeen (Black IPA), 7.4%
-
 
 [leutschach]
   Brauerei Leutschach|Die Brauerei, 2008
@@ -55,35 +38,14 @@ Bevog Rudeen (Black IPA), 7.4%
   sudwerk: 400 liter
   brewer: Wolfgang Dietrich
 
-
-Rossnatur,  5.3%, 12.2°
-Ginseng,    5.5%
-Weizen,     5.5%
-
--- seasonals --
-Dinkelbier,  5.4%
-Kürbisbier,  5.5%
-Maronibier,  6.2%
-Bock'n Roll (Starkbier),  8.5%
-
-
-
 [gratzer]
   Brauerei Gratzer, 2002
   8224 Kaindorf // Obertiefenbach 26
   Obertiefenbach › Kaindorf › Hartberg-Fürstenfeld › Steiermark
   www.brauereigratzer.at
+  brands: Gratzer
   sudwerk: 1000 liter
   brewer: Alois Gratzer
-
-
-Gratzer Johann, 5.3%, 12.8°   # Spezialbier Maerzen
-Gratzer Ludwig, 7.2%, 16.7°   # Bockbier
-Gratzer Friedrich, 4.7%      # bernsteinfarben
-Gratzer Trude, 5.1%           # leicht hopfig
-Gratzer Hermann, 6.5%         # dunkel
-Gratzer Diana, 6.6%           # vollmondbier
-
 
 [forstner]
   Handbrauerei Forstner|Forstner Biere|Hof-Bräu Kalsdorf, 2000
@@ -91,17 +53,9 @@ Gratzer Diana, 6.6%           # vollmondbier
   8401 Kalsdorf // Dorfstraße 52
   Kalsdorf › Graz-Umgebung › Steiermark
   www.forstner-biere.at
+  brands: Forstner
   sudwerk: 250 liter
   brewer: Elfi Forstner, Gerhard Forstner (-2014)
-
-
-Forstner Blond Pale Ale, 5.0%, 12.6°
-Forstner Das Rote,       5.0%, 12.5°   # Vollbier
-Forstner Slow 2 Roggen Ale, 5.4%, 13.4°
-Forstner Styrian Ale,    6.6%, 15.4°
-Forstner Triple 22,      9.5%, 22.2°
-Forstner Vollmond Doppelbock, 7.5%, 18.3°
-
 
 
 [herzog]
@@ -109,51 +63,9 @@ Forstner Vollmond Doppelbock, 7.5%, 18.3°
   8142 Wundschuh // Ponigler Straße 52      ## Ponigl bei Wundschuh (seit 2014)
   Ponigl › Wundschuh › Graz-Umgebung › Steiermark
   www.bierbotschaft.at   ## was: www.herzog-hofbraeu.at
+  brands: Herzogs
   sudwerk: 600 liters    ## <= (new in 2014 in Ponigl)  400 liters (old in Steindorf)
   brewers: Anita Herzog, Hannes Herzog
-
-
--- Klassik series --
-
-Herzogs Helles,   5.0%
-Herzogs Pils,     5.1%
-Herzogs Hausbier, 4.9%
-Herzogs Weizen,   5.0%
-Herzogs Dunkles,  4.9%
-
-Herzogs Leichter Fall,  2.7%  ## saisonal
-Herzogs Grünhopfenbier, 5.0%  ## saisonal
-
--- Exquisit series --
-
-Herzogs Damenbier,      4.7%
-Herzogs Herzlich Herbe, 5.1%
-Herzogs Pale Ale,       5.3%
-Herzogs IPA,            6.3%
-Herzogs Sauvignon Ale,  5.2%
-Herzogs Stout,          5.1%
-Herzogs Chili,          5.1%
-Herzogs Kaffeebier,     4.9%
-
-Herzogs Maisbier,       4.8%  ## saisonal
-Herzogs Erdäpfelbier,   5.0%  ## saisonal
-Herzogs Festbräu,       6.0%  ## saisonal (Winter)
-
--- Ambassador series --
-
-Herzogs Pater Ator,     9.1%
-Herzogs Schwester Ator, 9.0%
-Herzogs Bruder Ator,   11.4%
-Herzogs Hopfinator,     9.5%
-
-Herzogs Heidelbeer,     4.8%  ## saisonal (im Sommer)
-Herzogs Johannisbeere,  5.0%  ## saisonal
-Herzogs Kastanienbier,  5.0%  ## saisonal (im Herbst)
-Herzogs Kirschenbier,   5.4%  ## saisonal
-Herzogs Isabellabier          ## saisonal
-Herzogs Gin-Bier,       5.0%  ## saisonal
-Herzogs Walnussbier,    8.8%  ## saisonal
-
 
 [pock]
   Pock|Landwerkstatt & Genusslabor Pock|Pock Bier
@@ -173,22 +85,13 @@ Herzogs Walnussbier,    8.8%  ## saisonal
   sudwerk: 26 liter
   brewer: Helmut Eder
 
-Märzen, 4.8%
-Weizen, 4.8%
-Haferbier, 4.8%
-
-
 [flecks]
   Flecks|Flecks Steirerbier, 2014
   8130 Frohnleiten // Laufnitzdorf 200
   www.steier-bier.at
+  brands: Flecks
   sudwerk: 4000 liter
   brewer: Vinzenz Fleck
-
-Flecks Hell,            4.6%
-Flecks Rot,             4.6%  # bernsteinfarben
-Flecks Dunkel (Porter), 4.6%
-Flecks Weizen
 
 ## Bockschuss (steir. Bier-Amaro), 27.5%
 
@@ -199,32 +102,12 @@ Flecks Weizen
   brewer: Reinhold "Reini" Schenkermaier
   sudwerk: 300 liter
 
-Gruamhunt (Kellerbier), 5.3%
-Noar (Porter), 5.7%
-DreiHops (Pale Ale), 5.7%
-SchneeWit (Weißbier), 5%
-
-# seasonals
-BockBock (Starkbier), 7.5%
-K&K Franz Ferdinand (Imperial Vienna Strong Lager), 7.7%
-
-
-
 [hermax]
   Hermax Bräu|Brauerei Hermax, 1999
   8311 Mark Hartmannsdorf // Reith 72
+  brands: Hermax
   sudwerk: 150 liter
   brewer: Hermann Nothdurftler
-
-Hermax Märzen, 5%
-Hermax Miish, 5%   # bernsteinfarben
-Hermax Spezial (Schwarzbier), 5%
-Hermax Salbeibier, 5%   # helles
-Hermax Holunderbier, 5%
-Hermax Schafgarbenbier, 5%  # helles
-Hermax Rübenbier, 5%  # rot
-Hermax Bio-Kakaobier, 5%
-
 
 [toni]
   Toni Bräu
@@ -232,17 +115,9 @@ Hermax Bio-Kakaobier, 5%
   Ebersdorf › Hartberg-Fürstenfeld › Steiermark
   www.tonibraeu.at
 
-
-Toni Bräu Helles, 5.0%, 12.0°
-
-
 [trieb]
   Trieb Bräu
   8641 St. Marein // Ferdinand Raimundweg 7
-
-
-Trieb Bräu Märzen, 5.1%
-
 
 [bierwerkstatt]
   Bierwerkstatt

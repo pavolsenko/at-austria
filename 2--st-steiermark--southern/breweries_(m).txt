@@ -11,10 +11,6 @@
   brands: Murauer
   160_000 hl
 
-Murauer Märzen,   5.2%, 12.5°
-Murauer Pils,     5.1%, 12.2°
-Murauer Hopfengold, 5.7%, 13.5°, c:12, spezial
-
 
 [schladminger]
   Schladminger|Schladminger Brau (Brau Union), 1909
@@ -26,7 +22,3 @@ Murauer Hopfengold, 5.7%, 13.5°, c:12, spezial
   35_000 hl (2001)
 
 
-Schladminger Märzen,             5.1%, 11.7°,
-Schladminger Schnee Weiße,       5.0%, 12.2°, weizenbier
-Schladminger BioZwickl,          5.2%, 11.9°
-Schladminger Sepp,               5.1%, 11.7°

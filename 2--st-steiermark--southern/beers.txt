@@ -1,0 +1,181 @@
+########################################################
+# Beers in Kärnten (K) - Southern Austria
+
+________________________________________________________________
+- Flamberger | Flamberg
+
+Flamberger Hausbier, 4.9%   # halbdunkles vollbier
+Flamberger BioDunkelPils, 4%
+Flamberger Whiskybier, 5%   # halbdunkel (mit whiskymalz)
+Flamberger BioBier, 5%      # halbdunkel
+
+
+_______________________________________________________________
+- Bevog
+
+Bevog Tak (Pale Ale), 5.5%
+Bevog Kramah (India Pale Ale), 6.5%
+Bevog Deetz (Golden Ale), 4.8%
+Bevog Zo (Session IPA), 4.3%
+
+Bevog Baja (Oatmeal Stout), 5.8%
+Bevog Ond (Smoked Porter), 6.3%
+Bevog Rudeen (Black IPA), 7.4%
+
+
+_______________________________________________________________
+- Brauerei Leutschach
+
+Rossnatur,  5.3%, 12.2°
+Ginseng,    5.5%
+Weizen,     5.5%
+
+Dinkelbier,  5.4%
+Kürbisbier,  5.5%
+Maronibier,  6.2%
+Bock'n Roll (Starkbier),  8.5%
+
+_______________________________________________________________
+- Brauerei Gratzer
+
+Gratzer Johann, 5.3%, 12.8°   # Spezialbier Maerzen
+Gratzer Ludwig, 7.2%, 16.7°   # Bockbier
+Gratzer Friedrich, 4.7%      # bernsteinfarben
+Gratzer Trude, 5.1%           # leicht hopfig
+Gratzer Hermann, 6.5%         # dunkel
+Gratzer Diana, 6.6%           # vollmondbier
+
+_______________________________________________________________
+- Handbrauerei Forstner
+
+Forstner Blond Pale Ale, 5.0%, 12.6°
+Forstner Das Rote,       5.0%, 12.5°   # Vollbier
+Forstner Slow 2 Roggen Ale, 5.4%, 13.4°
+Forstner Styrian Ale,    6.6%, 15.4°
+Forstner Triple 22,      9.5%, 22.2°
+Forstner Vollmond Doppelbock, 7.5%, 18.3°
+
+_______________________________________________________________
+- Herzog Hofbräu
+
+Herzogs Helles,   5.0%
+Herzogs Pils,     5.1%
+Herzogs Hausbier, 4.9%
+Herzogs Weizen,   5.0%
+Herzogs Dunkles,  4.9%
+
+Herzogs Leichter Fall,  2.7%  ## saisonal
+Herzogs Grünhopfenbier, 5.0%  ## saisonal
+
+Herzogs Damenbier,      4.7%
+Herzogs Herzlich Herbe, 5.1%
+Herzogs Pale Ale,       5.3%
+Herzogs IPA,            6.3%
+Herzogs Sauvignon Ale,  5.2%
+Herzogs Stout,          5.1%
+Herzogs Chili,          5.1%
+Herzogs Kaffeebier,     4.9%
+
+Herzogs Maisbier,       4.8%  ## saisonal
+Herzogs Erdäpfelbier,   5.0%  ## saisonal
+Herzogs Festbräu,       6.0%  ## saisonal (Winter)
+
+Herzogs Pater Ator,     9.1%
+Herzogs Schwester Ator, 9.0%
+Herzogs Bruder Ator,   11.4%
+Herzogs Hopfinator,     9.5%
+
+Herzogs Heidelbeer,     4.8%  ## saisonal (im Sommer)
+Herzogs Johannisbeere,  5.0%  ## saisonal
+Herzogs Kastanienbier,  5.0%  ## saisonal (im Herbst)
+Herzogs Kirschenbier,   5.4%  ## saisonal
+Herzogs Isabellabier          ## saisonal
+Herzogs Gin-Bier,       5.0%  ## saisonal
+Herzogs Walnussbier,    8.8%  ## saisonal
+
+_______________________________________________________________
+- Eders
+
+Märzen, 4.8%
+Weizen, 4.8%
+Haferbier, 4.8%
+
+_______________________________________________________________
+- Flecks
+
+Flecks Hell,            4.6%
+Flecks Rot,             4.6%  # bernsteinfarben
+Flecks Dunkel (Porter), 4.6%
+Flecks Weizen
+
+_______________________________________________________________
+- Privatbrauerei Erzbergbräu
+
+Gruamhunt (Kellerbier), 5.3%
+Noar (Porter), 5.7%
+DreiHops (Pale Ale), 5.7%
+SchneeWit (Weißbier), 5%
+
+BockBock (Starkbier), 7.5%
+K&K Franz Ferdinand (Imperial Vienna Strong Lager), 7.7%
+
+_______________________________________________________________
+- Hermax Bräu
+
+Hermax Märzen, 5%
+Hermax Miish, 5%   # bernsteinfarben
+Hermax Spezial (Schwarzbier), 5%
+Hermax Salbeibier, 5%   # helles
+Hermax Holunderbier, 5%
+Hermax Schafgarbenbier, 5%  # helles
+Hermax Rübenbier, 5%  # rot
+Hermax Bio-Kakaobier, 5%
+
+_______________________________________________________________
+- Toni Bräu
+
+Toni Bräu Helles, 5.0%, 12.0°
+
+_______________________________________________________________
+- Trieb Bräu
+
+Trieb Bräu Märzen, 5.1%
+
+_______________________________________________________________
+- Murau
+
+Murauer Märzen,   5.2%, 12.5°
+Murauer Pils,     5.1%, 12.2°
+Murauer Hopfengold, 5.7%, 13.5°, c:12, spezial
+
+_______________________________________________________________
+- Schladminger
+
+Schladminger Märzen,             5.1%, 11.7°,
+Schladminger Schnee Weiße,       5.0%, 12.2°, weizenbier
+Schladminger BioZwickl,          5.2%, 11.9°
+Schladminger Sepp,               5.1%, 11.7°
+
+_______________________________________________________________
+- Gösser Brauerei
+
+Gösser Märzen,  5.2%, 11.8°     # main/bestseller brand (70%)
+Gösser Gold,    5.3%, 12.2°, c:7, b:25  # premium   # Note: b:25 = 25 IBU = bitterness
+Gösser Spezial, 5.7%, 13.2°
+Gösser Zwickl|Gösser Zwickl Naturtrüb,  5.2%, 11.8°
+Gösser Dunkles Zwickl,  5.7%, 13.2°
+Gösser Bock,    7.1%, 16.2°, seasonal|weihnacht   # ausschließlich für die Weihnachtszeit gebraut
+Gösser Stiftsbräu, 4.2%, 11.8°
+
+_______________________________________________________________
+- Brauerei Puntigam
+
+Puntigamer Panther,               5.2%, 12.1°   # main/bestseller brand
+Puntigamer (Das "bierige" Bier),  5.1%, 11.8°, maerzen
+Puntigamer Winterbier,            6.0%, 13.8°
+Puntigamer Zwickl       # only available in Puntigamer Brauhaus (on location) ??
+
+Reininghaus Märzen,              5.0%, 11.8°
+Reininghaus Pils,                4.8%, 11.4°
+Reininghaus Malz,                4.5%, 11.8°
+Reininghaus Jahrgangspils       #  2011,2012,2013,2014,2015
